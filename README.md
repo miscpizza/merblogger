@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Fix xyxyxyxyn calculation in obb result (#8188)
