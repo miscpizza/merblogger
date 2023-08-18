@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
