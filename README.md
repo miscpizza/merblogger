@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+fix predict with class filter
