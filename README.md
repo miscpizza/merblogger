@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Fix cmake requirements for ARM64 (#8589)
