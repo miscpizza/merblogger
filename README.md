@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
