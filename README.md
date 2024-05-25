@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Fix device counting method to account for double-digit device IDs (#8502)
